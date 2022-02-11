@@ -1,4 +1,4 @@
-## Olá eu sou Alessandro Raul, estudante de ADS e desenvolvedor full-stack! ✨
+## Olá! Eu sou o Alessandro Raul, estudante de ADS e desenvolvedor full-stack ✨
 
 - 🔭 Atualmente trabalho com back-end;
 - 🌱 Aprendendo Python;
