@@ -1,8 +1,8 @@
-## Olá! Eu sou o Alessandro Raul, estudante e desenvolvedor full-stack ✨
+## Olá! Eu sou o Alessandro Raul, estudante e desenvolvedor ✨
 
 - 🔭 Atualmente trabalhando com back-end (Dev Estagiário na empresa Linx :p);
 - 👨‍🎓 Estudante de ADS na faculdade SPTECH;
-- 🌱 Aprendendo Python e Kotlin;
+- 🌱 Aprendendo Go e Kotlin;
 - 📫 Email para contato: alesandromartinsguedes@gmail.com
 
 <div align="center">
